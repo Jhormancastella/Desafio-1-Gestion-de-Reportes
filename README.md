@@ -54,7 +54,7 @@ Cada reporte debe permitir:
 ### 📥 Clonar Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/gestion-reportes.git
+git clone https://github.com/Jhormancastella/Desafio-1-Gestion-de-Reportes.git
 ```
 
 ### 🛠️ Compilar y Ejecutar
