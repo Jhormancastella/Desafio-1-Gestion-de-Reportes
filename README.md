@@ -10,8 +10,8 @@ Una empresa necesita generar reportes en diferentes formatos:
 
 Cada reporte debe permitir:
 
-1. **Generar el reporte** (`generateReport()`)
-2. **Descargar el reporte** (`downloadReport()`)
+1. **Generar el reporte** (`generateReport()`).
+2. **Descargar el reporte** (`downloadReport()`).
 
 ## 🛠️ Tareas
 
